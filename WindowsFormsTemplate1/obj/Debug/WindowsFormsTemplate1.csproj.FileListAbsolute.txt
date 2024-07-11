@@ -1,0 +1,11 @@
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\bin\Debug\WindowsFormsTemplate1.exe.config
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\bin\Debug\WindowsFormsTemplate1.exe
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\bin\Debug\WindowsFormsTemplate1.pdb
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.csproj.AssemblyReference.cache
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.csproj.SuggestedBindingRedirects.cache
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.Form1.resources
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.Properties.Resources.resources
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.csproj.GenerateResource.cache
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.csproj.CoreCompileInputs.cache
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.exe
+D:\Users\fjch1\Documents\ASP.NET\WindowsFormsTemplate1\WindowsFormsTemplate1\obj\Debug\WindowsFormsTemplate1.pdb
